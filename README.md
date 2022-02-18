@@ -3,4 +3,4 @@
 Little Tic Tac Toe game for React JS. 
 Working efficiently. 
 
-Code is your fella ! 🤟🏻
+Code is yours fella ! 🤟🏻
